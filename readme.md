@@ -1,6 +1,6 @@
 # World Clock HTTP Server
 
-A custom HTTP server built from scratch in Java using raw sockets. It serves a live world clock through any standard web browser, with no web frameworks or external libraries used.
+A custom HTTP server built from scratch in Java using raw sockets. It serves a live world clock through any standard web browser, with no web frameworks or external libraries used. This is a university project built as part of computer networks module in the University of Pretoria
 
 ## How to Run
 
