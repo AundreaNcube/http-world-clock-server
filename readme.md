@@ -1,5 +1,4 @@
 # World Clock HTTP Server
-### COS332 Practical 3
 
 A custom HTTP server built from scratch in Java using raw sockets. It serves a live world clock through any standard web browser, with no web frameworks or external libraries used.
 
